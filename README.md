@@ -48,7 +48,7 @@ Lawyer GPT is a **legal chatbot** web application designed to provide **AI-power
 ## 🛠️ Installation & Setup
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/ahmadm962/lawyer-gpt.git
+git clone https://github.com/AhmadM962/Lawyer-Gpt.git
 cd lawyer-gpt-website
 ```
 
